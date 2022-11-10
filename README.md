@@ -1,4 +1,10 @@
-### Hi there 👋
+### Mikel Egaña Aranguren, Ph.D.
+
+I am an Assistant Profesor at Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), in the Dept. of Computer Languages and Systems.
+
+My research interests revolve around the idea of making the publication of data following FAIR principles (Findable, Accessible, Interoperable, Reusable) easier and more efficient in different domains (Mainly Government Open Data and Life Sciences Linked Data). I am also interested in the application of Knowledge Graphs in enterprise data-centric architectures. 
+
+I am open to any kind of collaboration, including consultancy through the [Euskoiker foundation](http://www.euskoiker.ehu.es/).
 
 <!--
 **mikel-egana-aranguren/mikel-egana-aranguren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

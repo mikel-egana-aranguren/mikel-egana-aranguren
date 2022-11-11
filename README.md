@@ -4,7 +4,7 @@
 
 ### Background
 
-My research and development activity is related to the publication and consumption of data following [FAIR principles](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable), mainly in [Government Open Data](https://www.opendata.euskadi.eus/lod/-/linked-open-data/) and [Life Sciences](https://www.semantic-web-journal.net/content/special-issue-linked-data-health-care-and-life-sciences). I also find the application of Knowledge Graphs in [enterprise data-centric architectures](http://www.datacentricmanifesto.org/) very promising, since I have seen it in action. 
+My research and development activity is related to the publication and consumption of data following [FAIR principles](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable), mainly in [Government Open Data](https://www.opendata.euskadi.eus/lod/-/linked-open-data/) and [Life Sciences](https://www.semantic-web-journal.net/content/special-issue-linked-data-health-care-and-life-sciences). I also work in the application of Knowledge Graphs in [enterprise data-centric architectures](http://www.datacentricmanifesto.org/). 
 
 ### Interested?
 

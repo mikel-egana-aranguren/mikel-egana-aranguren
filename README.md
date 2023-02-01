@@ -8,7 +8,7 @@ My research and development activity is related to the publication and consumpti
 
 ### Interested?
 
-I am open to any kind of collaboration, including consulting services on areas related to my background, through the [Euskoiker foundation](http://www.euskoiker.ehu.es/). Besides my academic research activity, I have hands-on experience in Linked Open Data projects and data integration through Knowledge Graphs: I have worked at [Eurohelp](https://eurohelp.es/) and [Eccenca GmbH](https://eccenca.com/), and I have done consultancy projects for [Cognizone](https://www.cogni.zone/) and [University of Murcia](https://www.um.es/).
+I am open to any kind of collaboration, including consulting services on areas related to my background, through the [Euskoiker foundation](http://www.euskoiker.ehu.es/). Besides my academic research activity, I have hands-on experience in Linked Open Data projects and data integration through Knowledge Graphs: I have worked at [Eurohelp](https://eurohelp.es/) and [Eccenca GmbH](https://eccenca.com/), and I have done consulting projects for [Cognizone](https://www.cogni.zone/), [University of Murcia](https://www.um.es/), and the [Basque Country Government](https://www.opendata.euskadi.eus/lod/-/linked-open-data/).
 
 ### To know more
 

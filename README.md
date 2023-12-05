@@ -1,6 +1,6 @@
 ## Mikel Egaña Aranguren, Ph.D.
 
-<!-- I am an Assistant Profesor at Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), in the Dept. of Computer Languages and Systems. -->
+I am an [Assistant Profesor](http://go.ehu.eus/mikel-egana-aranguren) at Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), in the Dept. of Computer Languages and Systems.
 
 ### Background
 
